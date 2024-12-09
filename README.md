@@ -14,5 +14,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-## Minhas redes sociais
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](link-do-seu-linkedin)
+## CURSANDO:
+ANALISE E DESENVOLVIMENTO DE SISTEMAS.
+## ÁREA DE INTERRESE:
+CYBER SECURITY.
