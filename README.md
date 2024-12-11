@@ -1,4 +1,3 @@
-## hello friends, good to see you again!
 ## Olá amigos, bom reve-los novamente!
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=H4SHYNUX&show_icons=true&theme=tokyonight)
